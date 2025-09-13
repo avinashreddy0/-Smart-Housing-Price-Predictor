@@ -1,0 +1,44 @@
+# 🔮 Smart Housing Price Predictor
+
+**Project Type:** Machine Learning / Streamlit App  
+**Skills Used:** Python, NumPy, Pandas, Scikit-learn, Streamlit, Joblib, Data Visualization, Regression Models  
+
+---
+
+## 🏠 Project Overview
+
+The **Smart Housing Price Predictor** is an interactive web application that predicts house prices based on user inputs.  
+It leverages multiple machine learning models — **Linear Regression, Random Forest, and Gradient Boosting** — to provide accurate predictions.  
+
+The app also includes **visualizations** such as feature bar charts and prediction line charts to help users understand the impact of different factors on housing prices.  
+
+---
+
+## 💡 Features
+
+- Input form for **house details**: Income, House Age, Rooms, Bedrooms, Avg Occupancy, Population, Latitude, Longitude.  
+- **Prediction Models**: Linear Regression, Random Forest, Gradient Boosting.  
+- **Real-time Price Prediction** in Indian Rupees (converted from dataset values).  
+- **Visualizations**:  
+  - Bar chart of entered features.  
+  - Line chart of predicted house price.  
+- User-friendly UI built using **Streamlit**.  
+
+---
+
+## ⚙️ Technologies & Tools
+
+- **Python** – Programming language.  
+- **NumPy & Pandas** – Data manipulation.  
+- **Scikit-learn** – Machine learning models and prediction.  
+- **Joblib** – Saving and loading trained models.  
+- **Streamlit** – Interactive web app.  
+- **Data Visualization** – Bar chart and line chart for insights.  
+
+---
+
+## 🔗 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-url>
