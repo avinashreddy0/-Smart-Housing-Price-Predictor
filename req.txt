@@ -9,7 +9,7 @@ seaborn
 # Web app deployment
 streamlit
 
-# Optional (only if you used them in training/EDA)
+# Optional (only if used in training/EDA)
 # xgboost
 # lightgbm
 # plotly
