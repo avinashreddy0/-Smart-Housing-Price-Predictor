@@ -1,0 +1,15 @@
+# Core data science libraries
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib
+seaborn
+
+# Web app deployment
+streamlit
+
+# Optional (only if you used them in training/EDA)
+# xgboost
+# lightgbm
+# plotly
